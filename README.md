@@ -1,1 +1,1 @@
-# .NetCoreAPI_VueJs_Proje
+# Back-End : .Net Core API Front-End : Vue.js
